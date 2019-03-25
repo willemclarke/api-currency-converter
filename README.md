@@ -14,8 +14,8 @@ Welcome. This project is a currency-converter with live exchange rates from an A
 [exchangeratesapi.io](https://exchangeratesapi.io/)
 
 ## Screenshots:
-![SS1](https://gyazo.com/1ce4fd22c9c56c79429784fc51257f84)
-![SS2](https://gyazo.com/fa8af0a80c6fec249e4d5e9b145ff95e)
-![SS3](https://gyazo.com/8d36502a94f18ba4d8b115e5dfb95360)
+![SS1](https://i.gyazo.com/1ce4fd22c9c56c79429784fc51257f84.png)
+![SS2](https://i.gyazo.com/fa8af0a80c6fec249e4d5e9b145ff95e.png)
+![SS3](https://i.gyazo.com/8d36502a94f18ba4d8b115e5dfb95360.png)
 
 ## How to use:
