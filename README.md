@@ -24,6 +24,6 @@ Welcome. This project is a currency-converter with live exchange rates from an A
 ## How to use:
 
 * Clone the repository
-* npm install
-* node currencyconverter.js
+* ```npm install```
+* ```node currencyconverter.js```
 
