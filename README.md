@@ -1,7 +1,7 @@
 # API Currency Converter | Javascript
 
 Welcome. This project is a currency-converter with live exchange rates from an API.
-  * Project was created to boost my skills, specifically understanding promises.
+  * Project was created to boost my skills, specifically the understanding promises.
   * Also an introduction to the use of markdown to create README.md files
 
 ## Dependencies:
@@ -22,3 +22,8 @@ Welcome. This project is a currency-converter with live exchange rates from an A
 </p>
 
 ## How to use:
+
+* Clone the repository
+* npm install
+* node currencyconverter.js
+
